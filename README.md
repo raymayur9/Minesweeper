@@ -1,4 +1,4 @@
-# ## <p align="center">Guide to Minesweeper</p>
+## <p align="center">Guide to Minesweeper</p>
 
 **Basic Intro** <br>
 Minesweeper is  generally a single-player (except here) puzzle video game. The objective of the game is to clear a square board containing hidden "mines" or bombs without detonating any of them, with help from clues about the number of neighbouring mines in each field. You can read the history and more from [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
